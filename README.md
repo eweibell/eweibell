@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on web apps, small software tools, and technical production systems<br><br>👯 I’m looking to collaborate on open source and interesting coding projects<br><br>🤝 I’m looking for help with learning new technologies<br><br>🌱 I’m currently learning React, React Native, Firebase, and modern web development tools<br><br>💬 Ask me about programming, web apps, technical systems, and live production tech<br><br>⚡ Fun fact: I spend a lot of time trying to combine coding with working with technical systems for live events
 
 
@@ -14,10 +14,10 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=eweibell&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=eweibell&icon=0&color=0)](https://visitcount.itsvg.in)
 
